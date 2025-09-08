@@ -1,4 +1,5 @@
-What is a Repository Pattern?
+**What is a Repository Pattern?**
+
 It provides an abstraction layer between the application's business logic and the underlying data storage mechanism (e.g., Entity Framework Core, Dapper, raw SQL). 
 This means the business logic doesn't need to know the specifics of how data is retrieved, saved, or updated.
 
